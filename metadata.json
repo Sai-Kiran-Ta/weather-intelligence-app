@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A fully functional Weather Intelligence Web App with city search, current conditions, 7-day forecast, interactive temperature trends, and smart weather recommendations using Open-Meteo APIs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
